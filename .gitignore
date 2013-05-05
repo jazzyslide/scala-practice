@@ -1,0 +1,27 @@
+*.class
+
+# Exclude OS X folder attributes
+.DS_Store
+
+# Exclude temp nibs and swap files
+*~.nib
+*.swp
+
+# backup files
+*~
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+.idea_modules
+
+# eclipse
+.classpath
+.project
+.settings
+
+#build files
+project
+target
